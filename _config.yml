@@ -1,0 +1,28 @@
+name: happycacti
+favicon: null
+layout_spectrum: 0.6924664110410959
+typography_spectrum: 0.49321191175840795
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6164622756186873
+  lightness: 0.6211573348846287
+  saturation: 0.5332755886483938
+  rhythmicContrast: 0.5091865449212492
+purpose: []
